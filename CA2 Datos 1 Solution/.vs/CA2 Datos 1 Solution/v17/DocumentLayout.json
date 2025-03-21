@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B71D32D5-88DE-4166-8FFD-6018BBE1B35C}|listas_circulares\\listas_circulares.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\ca2-datos-1\\ca2 datos 1 solution\\listas_circulares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71D32D5-88DE-4166-8FFD-6018BBE1B35C}|listas_circulares\\listas_circulares.csproj|solutionrelative:listas_circulares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F502588-B525-4ECF-9B00-8C00E81F03E4}|unit_test_listas_dobles_circulares\\unit_test_listas_dobles_circulares.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\ca2-datos-1\\ca2 datos 1 solution\\unit_test_listas_dobles_circulares\\unit_test_listas_dobles_circulares.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F502588-B525-4ECF-9B00-8C00E81F03E4}|unit_test_listas_dobles_circulares\\unit_test_listas_dobles_circulares.csproj|solutionrelative:unit_test_listas_dobles_circulares\\unit_test_listas_dobles_circulares.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7771549-50E6-4910-84B8-BE94EE2995E2}|unit_test_listas_circulares\\unit_test_listas_circulares.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\ca2-datos-1\\ca2 datos 1 solution\\unit_test_listas_circulares\\unit_test_listas_circulares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7771549-50E6-4910-84B8-BE94EE2995E2}|unit_test_listas_circulares\\unit_test_listas_circulares.csproj|solutionrelative:unit_test_listas_circulares\\unit_test_listas_circulares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71D32D5-88DE-4166-8FFD-6018BBE1B35C}|listas_circulares\\listas_circulares.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\ca2-datos-1\\ca2 datos 1 solution\\listas_circulares\\listas_circulares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71D32D5-88DE-4166-8FFD-6018BBE1B35C}|listas_circulares\\listas_circulares.csproj|solutionrelative:listas_circulares\\listas_circulares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F502588-B525-4ECF-9B00-8C00E81F03E4}|unit_test_listas_dobles_circulares\\unit_test_listas_dobles_circulares.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\ca2-datos-1\\ca2 datos 1 solution\\unit_test_listas_dobles_circulares\\unit_test_listas_dobles_circulares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F502588-B525-4ECF-9B00-8C00E81F03E4}|unit_test_listas_dobles_circulares\\unit_test_listas_dobles_circulares.csproj|solutionrelative:unit_test_listas_dobles_circulares\\unit_test_listas_dobles_circulares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91890123-25BF-4461-A3A3-94C820C8034F}|listas_dobles_circulares\\listas_dobles_circulares.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\ca2-datos-1\\ca2 datos 1 solution\\listas_dobles_circulares\\listas_dobles_circulares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91890123-25BF-4461-A3A3-94C820C8034F}|listas_dobles_circulares\\listas_dobles_circulares.csproj|solutionrelative:listas_dobles_circulares\\listas_dobles_circulares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "unit_test_listas_dobles_circulares",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\unit_test_listas_dobles_circulares\\unit_test_listas_dobles_circulares.csproj",
+              "RelativeDocumentMoniker": "unit_test_listas_dobles_circulares\\unit_test_listas_dobles_circulares.csproj",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\unit_test_listas_dobles_circulares\\unit_test_listas_dobles_circulares.csproj",
+              "RelativeToolTip": "unit_test_listas_dobles_circulares\\unit_test_listas_dobles_circulares.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T02:04:11.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\listas_circulares\\Program.cs",
+              "RelativeDocumentMoniker": "listas_circulares\\Program.cs",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\listas_circulares\\Program.cs",
+              "RelativeToolTip": "listas_circulares\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:38:35.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "listas_circulares.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\listas_circulares\\listas_circulares.cs",
+              "RelativeDocumentMoniker": "listas_circulares\\listas_circulares.cs",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\listas_circulares\\listas_circulares.cs",
+              "RelativeToolTip": "listas_circulares\\listas_circulares.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAAAgwMkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:24:29.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "unit_test_listas_dobles_circulares.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\unit_test_listas_dobles_circulares\\unit_test_listas_dobles_circulares.cs",
+              "RelativeDocumentMoniker": "unit_test_listas_dobles_circulares\\unit_test_listas_dobles_circulares.cs",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\unit_test_listas_dobles_circulares\\unit_test_listas_dobles_circulares.cs",
+              "RelativeToolTip": "unit_test_listas_dobles_circulares\\unit_test_listas_dobles_circulares.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAIwIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:30:24.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "unit_test_listas_circulares.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\unit_test_listas_circulares\\unit_test_listas_circulares.cs",
+              "RelativeDocumentMoniker": "unit_test_listas_circulares\\unit_test_listas_circulares.cs",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\unit_test_listas_circulares\\unit_test_listas_circulares.cs",
+              "RelativeToolTip": "unit_test_listas_circulares\\unit_test_listas_circulares.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAgwHsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:27:47.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "listas_dobles_circulares.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\listas_dobles_circulares\\listas_dobles_circulares.cs",
+              "RelativeDocumentMoniker": "listas_dobles_circulares\\listas_dobles_circulares.cs",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\listas_dobles_circulares\\listas_dobles_circulares.cs",
+              "RelativeToolTip": "listas_dobles_circulares\\listas_dobles_circulares.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:26:22.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

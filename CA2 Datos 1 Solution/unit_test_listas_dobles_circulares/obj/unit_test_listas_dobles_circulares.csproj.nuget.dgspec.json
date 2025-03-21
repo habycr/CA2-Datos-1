@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\unit_test_listas_dobles_circulares\\unit_test_listas_dobles_circulares.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\listas_dobles_circulares\\listas_dobles_circulares.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\listas_dobles_circulares\\listas_dobles_circulares.csproj",
+        "projectName": "listas_dobles_circulares",
+        "projectPath": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\listas_dobles_circulares\\listas_dobles_circulares.csproj",
+        "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\listas_dobles_circulares\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Javier\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.310/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\unit_test_listas_dobles_circulares\\unit_test_listas_dobles_circulares.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\unit_test_listas_dobles_circulares\\unit_test_listas_dobles_circulares.csproj",
+        "projectName": "unit_test_listas_dobles_circulares",
+        "projectPath": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\unit_test_listas_dobles_circulares\\unit_test_listas_dobles_circulares.csproj",
+        "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\unit_test_listas_dobles_circulares\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Javier\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\listas_dobles_circulares\\listas_dobles_circulares.csproj": {
+                "projectPath": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA2-Datos-1\\CA2 Datos 1 Solution\\listas_dobles_circulares\\listas_dobles_circulares.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.310/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
